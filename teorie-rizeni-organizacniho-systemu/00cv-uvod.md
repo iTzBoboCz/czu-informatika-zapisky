@@ -22,6 +22,13 @@ date_updated: 2023-10-06
   1. -,- ze současnosti
   1. -,- z českého prostředí
 
+### úkol - úspěšní manažeři a jejich firmy
+
+- Steve Jobs - Apple - minulost
+- Elon Musk - Tesla, SpaceX - současnost
+- Mark Zuckerberg - Meta (Facebook, Instagram) - současnost
+- Sundar Pitchai - Google
+
 ## praxe vs teorie
 
 - jsou si opakem
